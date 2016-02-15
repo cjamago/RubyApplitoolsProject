@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="1" failures="1" errors="0" time="38.591943" timestamp="2015-08-27T21:46:57-04:00">
+  <!-- Randomized with seed 41345 -->
+  <properties/>
+  <testcase classname="spec.login_spec" name="Login succeeded" file="./spec/login_spec.rb" time="38.591563">
+    <failure message="RSpec::Core::MultipleExceptionError" type="RSpec::Core::MultipleExceptionError">
+      <![CDATA['Login succeeded' of 'the-internet'. see details at https://eyes.applitools.com/app/sessions/251961574371480
+
+Watch a video of the test at https://saucelabs.com/tests/1ef0da1eeaa44c9eb19559391fefb46b
+]]>
+    </failure>
+  </testcase>
+</testsuite>
