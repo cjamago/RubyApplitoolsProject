@@ -1,1 +1,1 @@
-# getting-started-blog-series
+# getting-started-with-integrating project with Jenkins
